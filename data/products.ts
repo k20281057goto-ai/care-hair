@@ -159,9 +159,9 @@ export const products: Product[] = [
     type: "shampoo",
     price: "約1,100円",
     affiliateUrl:
-      "https://hb.afl.rakuten.co.jp/ichiba/57816347.52bf7dc8.57816348.0433f2cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakahoshiya-online%2F11952-11990-a2%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+      "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F368d6c6661255eb6e205e860c8c80dbd%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
-      "https://hbb.afl.rakuten.co.jp/hgb/57816347.52bf7dc8.57816348.0433f2cf/?me_id=1434830&item_id=10000032&pc=https%3A%2F%2Fimage.rakuten.co.jp%2Fakahoshiya-online%2Fcabinet%2Fitem%2F90%2F11952-11990_9.jpg%3F_ex%3D240x240&s=240x240&t=picttext",
+      "https://hbb.afl.rakuten.co.jp/hgb/5783080e.633e8aee.5783080f.45d15dee/?me_id=1396304&item_id=10033258&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fn-yakuhin%2Fcabinet%2Fsyouhin22%2F4901525011976.jpg%3F_ex%3D240x240&s=240x240&t=picttext",
     tags: ["頭皮", "かゆみ", "低刺激"],
     feature: "フケ・かゆみが気になるときに、まず候補に入れたい低刺激系。",
     point: "香りや刺激が強いものが苦手な人にも選びやすいです。",
@@ -329,7 +329,10 @@ export const products: Product[] = [
     name: "アンレーベル KR コントロール トリートメント",
     type: "treatment",
     price: "約1,650円",
-    affiliateUrl: "",
+    affiliateUrl:
+      "https://hb.afl.rakuten.co.jp/ichiba/578305e9.977db2c8.578305ea.000c8e94/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjpslabo%2Funlabel35%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    affiliateImageUrl:
+      "https://hbb.afl.rakuten.co.jp/hgb/578305e9.977db2c8.578305ea.000c8e94/?me_id=1402371&item_id=10000092&pc=https%3A%2F%2Fimage.rakuten.co.jp%2Fjpslabo%2Fcabinet%2Fcf%2F13077051%2F2set_03.jpg%3F_ex%3D240x240&s=240x240&t=picttext",
     tags: ["普通毛", "癖毛", "広がり"],
     feature: "うねりや広がりを自然に整えるトリートメント。",
     point: "湿気の日にまとまりにくい髪へ提案しやすいです。",
@@ -384,9 +387,9 @@ export const products: Product[] = [
     type: "treatment",
     price: "約1,100円",
     affiliateUrl:
-      "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F2ab4d81d521a2af1110dd9d917d78693%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
+      "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F5d8e29af5c08a395409edb4cefecb657%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
-      "https://hbb.afl.rakuten.co.jp/hgb/57816347.52bf7dc8.57816348.0433f2cf/?me_id=1434830&item_id=10000032&pc=https%3A%2F%2Fimage.rakuten.co.jp%2Fakahoshiya-online%2Fcabinet%2Fitem%2F90%2F11952-11990_11.jpg%3F_ex%3D240x240&s=240x240&t=picttext",
+      "https://hbb.afl.rakuten.co.jp/hgb/57830bca.eb9a60f3.57830bcb.26dd45fb/?me_id=1441958&item_id=10006629&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fsinca-ism-03%2Fcabinet%2F13319963%2F1758965254-1-a.jpg%3F_ex%3D240x240&s=240x240&t=picttext",
     tags: ["頭皮", "低刺激", "うるおい"],
     feature: "頭皮にやさしい選択をしたい人向けのトリートメント。",
     point: "フケ・かゆみが気になる人は刺激の少なさを優先します。",
