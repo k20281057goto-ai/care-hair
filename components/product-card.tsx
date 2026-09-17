@@ -133,6 +133,16 @@ export function ProductCard({ product, recommendation, aiContext }: ProductCardP
             詳しく見る <ArrowRight className="h-4 w-4" />
           </Link>
         </div>
+        {product.amazonAffiliateUrl ? (
+          <a
+            href={product.amazonAffiliateUrl}
+            target="_blank"
+            rel="nofollow noopener noreferrer sponsored"
+            className="mt-2 inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-[#ff9900] bg-[#ff9900] px-4 text-sm font-semibold text-[#111] transition hover:bg-[#e88b00]"
+          >
+            Amazonで商品を見る <ExternalLink className="h-4 w-4" />
+          </a>
+        ) : null}
         {product.affiliateUrl ? (
           <a
             href={product.affiliateUrl}
