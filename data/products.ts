@@ -6,6 +6,7 @@ export const products: Product[] = [
     name: "プリュスオー メロウシャンプー",
     type: "shampoo",
     price: "約1,650円",
+    amazonAffiliateUrl: "https://amzn.to/3TezRlN",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F0e9ea6d5bd301ea03cc57a811f18ef6e%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -25,6 +26,7 @@ export const products: Product[] = [
     name: "MEMEME スムースブースト シャンプー",
     type: "shampoo",
     price: "約1,540円",
+    amazonAffiliateUrl: "https://amzn.to/4xZcDz7",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2Fcb83b2aa55fba5159a85c0d6e80ca579%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -44,6 +46,7 @@ export const products: Product[] = [
     name: "Sleek バランスエフェクト シャンプー",
     type: "shampoo",
     price: "約1,760円",
+    amazonAffiliateUrl: "https://amzn.to/3TCf7V8",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F1524656d92fd67a956ceb356114c3516%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -63,6 +66,7 @@ export const products: Product[] = [
     name: "THE ANSWER シャンプー",
     type: "shampoo",
     price: "約1,760円",
+    amazonAffiliateUrl: "https://amzn.to/4xZcYSp",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F151e94ef87103d08b65856c1ef84808a%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -82,6 +86,7 @@ export const products: Product[] = [
     name: "アンレーベル KR コントロール シャンプー",
     type: "shampoo",
     price: "約1,650円",
+    amazonAffiliateUrl: "https://amzn.to/4dIw6Mi",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2Fc08027e580b59d772a860ce2e208cd4a%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -101,6 +106,7 @@ export const products: Product[] = [
     name: "プリュスオー リポアシャンプー",
     type: "shampoo",
     price: "約1,650円",
+    amazonAffiliateUrl: "https://amzn.to/471kLmN",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2Fc73473c9d784ebbf6ce2f4018b620ed8%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -120,6 +126,7 @@ export const products: Product[] = [
     name: "Qurap ラッピングモイスト シャンプー",
     type: "shampoo",
     price: "約1,540円",
+    amazonAffiliateUrl: "https://amzn.to/470scdZ",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/57815ee4.e90ec58a.57815ee5.d431c4f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkiseki-shop%2Fqurap-ha-a-7428-7435%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -139,6 +146,7 @@ export const products: Product[] = [
     name: "THE ANSWER SS シャンプー",
     type: "shampoo",
     price: "約1,760円",
+    amazonAffiliateUrl: "https://amzn.to/4cLbwKX",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/57816148.5d39e2c1.57816149.d7ea87c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpupuhima%2Fh4901301463678%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -158,6 +166,7 @@ export const products: Product[] = [
     name: "カウブランド 無添加 うるおいケア シャンプー",
     type: "shampoo",
     price: "約1,100円",
+    amazonAffiliateUrl: "https://amzn.to/3UXRt5U",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F368d6c6661255eb6e205e860c8c80dbd%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -177,6 +186,7 @@ export const products: Product[] = [
     name: "ミノン 薬用ヘアシャンプー",
     type: "shampoo",
     price: "約1,500円",
+    amazonAffiliateUrl: "https://amzn.to/4y6rs3a",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2Fa939bc9e343d20630a3e96af94253dfc%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -196,6 +206,7 @@ export const products: Product[] = [
     name: "無印良品 スカルプケア シャンプー",
     type: "shampoo",
     price: "約1,290円",
+    amazonAffiliateUrl: "https://amzn.to/4Aio3Q0",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/57816a46.a1d0f934.57816a47.61ae8e88/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwonder-depo%2Fwd0f4vz14c3%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -215,6 +226,7 @@ export const products: Product[] = [
     name: "メルト モイストシャンプー",
     type: "shampoo",
     price: "約1,760円",
+    amazonAffiliateUrl: "https://amzn.to/472xeqo",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2Fc4a996482b7b75bd154a8229deb66013%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -234,6 +246,7 @@ export const products: Product[] = [
     name: "プリュスオー メロウトリートメント",
     type: "treatment",
     price: "約1,650円",
+    amazonAffiliateUrl: "https://amzn.to/4iynU4I",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F7ce883925524e122556c8d427683c655%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -253,6 +266,7 @@ export const products: Product[] = [
     name: "MEMEME スムースブースト トリートメント",
     type: "treatment",
     price: "約1,540円",
+    amazonAffiliateUrl: "https://amzn.to/4AiZN07",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2Fe97495534abc8333ecc0d1cc8a6fab77%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -272,6 +286,7 @@ export const products: Product[] = [
     name: "Sleek バランスエフェクト トリートメント",
     type: "treatment",
     price: "約1,760円",
+    amazonAffiliateUrl: "https://amzn.to/4ha6B7H",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F1524656d92fd67a956ceb356114c3516%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -291,6 +306,7 @@ export const products: Product[] = [
     name: "プリュスオー リポアトリートメント",
     type: "treatment",
     price: "約1,650円",
+    amazonAffiliateUrl: "https://amzn.to/4xqoXYh",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F2e4903020c290880002ed35faafc65f5%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -310,6 +326,7 @@ export const products: Product[] = [
     name: "THE ANSWER トリートメント",
     type: "treatment",
     price: "約1,760円",
+    amazonAffiliateUrl: "https://amzn.to/4yHrJcD",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2Ff44f556c947e1b02bffe79fd53a45a61%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -329,6 +346,7 @@ export const products: Product[] = [
     name: "アンレーベル KR コントロール トリートメント",
     type: "treatment",
     price: "約1,650円",
+    amazonAffiliateUrl: "https://amzn.to/4dIw6Mi",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/578305e9.977db2c8.578305ea.000c8e94/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjpslabo%2Funlabel35%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -348,6 +366,7 @@ export const products: Product[] = [
     name: "Qurap ラッピングモイスト トリートメント",
     type: "treatment",
     price: "約1,540円",
+    amazonAffiliateUrl: "https://amzn.to/4cPUonm",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/57815ee4.e90ec58a.57815ee5.d431c4f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkiseki-shop%2Fqurap-ha-a-7428-7435%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -367,6 +386,7 @@ export const products: Product[] = [
     name: "THE ANSWER SS トリートメント",
     type: "treatment",
     price: "約1,760円",
+    amazonAffiliateUrl: "https://amzn.to/46vk1Gn",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/57815369.2e6cb649.5781536a.3b277229/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fehac%2F4901301463579%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -386,6 +406,7 @@ export const products: Product[] = [
     name: "カウブランド 無添加 うるおいケア トリートメント",
     type: "treatment",
     price: "約1,100円",
+    amazonAffiliateUrl: "https://amzn.to/4xZxyC6",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F5d8e29af5c08a395409edb4cefecb657%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -405,6 +426,7 @@ export const products: Product[] = [
     name: "ミノン 薬用コンディショナー",
     type: "treatment",
     price: "約1,500円",
+    amazonAffiliateUrl: "https://amzn.to/4Aj5mLY",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F964fce4748062396f9d1c15f9f044122%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -424,6 +446,7 @@ export const products: Product[] = [
     name: "無印良品 スカルプケア コンディショナー",
     type: "treatment",
     price: "約1,290円",
+    amazonAffiliateUrl: "https://amzn.to/4AcmrY1",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F2faec1c12760493cf941665421ab286d%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
@@ -443,6 +466,7 @@ export const products: Product[] = [
     name: "メルト モイストトリートメント",
     type: "treatment",
     price: "約1,760円",
+    amazonAffiliateUrl: "https://amzn.to/4xZGuHN",
     affiliateUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/576bfbf3.1d3655e4.576bfbf5.2b62af66/?pc=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2Fc4a996482b7b75bd154a8229deb66013%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D",
     affiliateImageUrl:
