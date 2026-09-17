@@ -8,6 +8,7 @@ export type Product = {
   type: ProductType;
   price: string;
   volumeMl?: number;
+  amazonAffiliateUrl?: string;
   affiliateUrl: string;
   affiliateImageUrl?: string;
   tags: string[];
