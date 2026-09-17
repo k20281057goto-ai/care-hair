@@ -66,15 +66,29 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
                 <div className="mt-6 flex flex-wrap gap-2">
                   {product.tags.map((tag) => <span key={tag} className="rounded-full border border-green/15 bg-white px-3 py-1 text-xs font-semibold text-green">{tag}</span>)}
                 </div>
-                {product.affiliateUrl ? (
-                  <a
-                    href={product.affiliateUrl}
-                    target="_blank"
-                    rel="nofollow noopener noreferrer sponsored"
-                    className={`${buttonVariants({ size: "lg" })} mt-7`}
-                  >
-                    楽天で商品を見る
-                  </a>
+                {product.amazonAffiliateUrl || product.affiliateUrl ? (
+                  <div className="mt-7 grid max-w-sm gap-3">
+                    {product.amazonAffiliateUrl ? (
+                      <a
+                        href={product.amazonAffiliateUrl}
+                        target="_blank"
+                        rel="nofollow noopener noreferrer sponsored"
+                        className="inline-flex min-h-14 items-center justify-center gap-2 rounded-[var(--radius-button)] border border-[#ff9900] bg-[#ff9900] px-8 py-3 text-sm font-medium text-[#111] transition duration-300 hover:-translate-y-0.5 hover:bg-[#e88b00] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green"
+                      >
+                        Amazonで商品を見る
+                      </a>
+                    ) : null}
+                    {product.affiliateUrl ? (
+                      <a
+                        href={product.affiliateUrl}
+                        target="_blank"
+                        rel="nofollow noopener noreferrer sponsored"
+                        className={buttonVariants({ size: "lg" })}
+                      >
+                        楽天で商品を見る
+                      </a>
+                    ) : null}
+                  </div>
                 ) : null}
               </div>
               {product.affiliateUrl && product.affiliateImageUrl ? (
@@ -144,6 +158,21 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
                     imageClassName="p-5"
                   />
                   <div>
+                    {product.amazonAffiliateUrl ? (
+                      <>
+                        <CardEyebrow>Amazon Associate</CardEyebrow>
+                        <h2 className="mt-3 text-2xl font-medium">Amazonの商品ページで見る</h2>
+                        <a
+                          href={product.amazonAffiliateUrl}
+                          target="_blank"
+                          rel="nofollow noopener noreferrer sponsored"
+                          className="mt-6 inline-flex min-h-14 items-center justify-center gap-2 rounded-[var(--radius-button)] border border-[#ff9900] bg-[#ff9900] px-8 py-3 text-sm font-medium text-[#111] transition duration-300 hover:-translate-y-0.5 hover:bg-[#e88b00] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green"
+                        >
+                          Amazonで商品を見る
+                        </a>
+                        <div className="my-6 border-t border-line" />
+                      </>
+                    ) : null}
                     <CardEyebrow>Rakuten Affiliate</CardEyebrow>
                     <h2 className="mt-3 text-2xl font-medium">楽天の商品ページで見る</h2>
                     <p className="mt-4 leading-7 text-muted">
