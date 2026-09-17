@@ -63,6 +63,11 @@ export function CompareProducts() {
                     <span className="mt-2 block text-xs font-semibold text-muted">{getProductInsight(product).brand}</span>
                     <span className="mt-2 block text-base font-semibold leading-6">{product.name}</span>
                   </Link>
+                  {product.amazonAffiliateUrl ? (
+                    <a href={product.amazonAffiliateUrl} target="_blank" rel="nofollow noopener noreferrer sponsored" className="mt-3 inline-flex min-h-10 w-full items-center justify-center rounded-full border border-[#ff9900] bg-[#ff9900] px-3 text-xs font-semibold text-[#111] transition hover:bg-[#e88b00]">
+                      Amazonで商品を見る
+                    </a>
+                  ) : null}
                   {product.affiliateUrl ? (
                     <a href={product.affiliateUrl} target="_blank" rel="nofollow noopener noreferrer sponsored" className="mt-3 inline-flex min-h-10 w-full items-center justify-center rounded-full border border-green px-3 text-xs font-semibold text-green">
                       楽天で商品を見る
